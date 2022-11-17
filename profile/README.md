@@ -3,7 +3,7 @@
 <p>Hello from RainCandy Technology. We are a small personal studio focus on technology stuffs.</p>
 
 ## 🔭 We are researching...
-* Microsoft Windows (Including Beta Builds)
+* Software Localization & Repack
 * MathType By WIRIS
 * Corel VideoStudio
 * GNU/Linux (Especially some Chinese distribution like Kylin & UnionTech OS)

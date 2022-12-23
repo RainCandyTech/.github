@@ -10,7 +10,7 @@
 
 ## 🔍︎ Find us on...
 * [Our Website - 我们的网站](http://www.miraclenet.xyz)
-* [Baidu TieBa - 百度贴吧](https://tieba.baidu.com/home/main/?id=tb.1.d4269b20._OUS4Lt-BqlYrfkmzcEg5A)
+* [Baidu TieBa - 百度贴吧](https://tieba.baidu.com/home/main?id=tb.1.4f30aba2.1enDDnRy_4lIAwsVI7vnxg)
 * [Bilibili - 哔哩哔哩](https://space.bilibili.com/291095763)
 * [KuaiShou - 快手](https://github.com/RainCandyTech/.github/blob/main/profile/Pictures/KuaiShou/KuaiShou.jpg)
 * [NicoNico](https://www.nicovideo.jp/user/60499470)

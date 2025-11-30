@@ -1,3 +1,5 @@
+![Logo by HouYu](./logo.jpg)
+
 # Introduction - 自我介绍
 <i>Because we created memories in our hearts<br>
 因为我们创造了心中的回忆<br>

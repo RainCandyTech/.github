@@ -16,9 +16,6 @@ RainCandy Technology is an individual studio founded in 2013, focus on computer 
 # Our research areas - 我们的研究领域
 - Operating systems for computers and other smart devices - 适用于计算机和其他智能设备的操作系统
   - Microsoft Windows (GA releases & latest Official Preview releases only - 仅正式版本和最新的官方预览版本)
-  - Apple iOS / iPadOS / macOS / watchOS (Retail Devices Only - 仅零售设备)
-  - Google Android
-  - Huawei HarmonyOS (鸿蒙)
   - GNU/Linux (Especially for Chinese distributions like Kylin OS or UnionTech OS - 特别是以银河麒麟和统信 UOS 为代表的国产发行版)
 - Hacking and localization of computer software, especially the following ones - 计算机软件的研究与汉化，特别是以下软件
   - Corel VideoStudio (会声会影)

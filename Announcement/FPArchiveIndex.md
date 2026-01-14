@@ -103,8 +103,8 @@ The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windo
 |2025.3|34.0.0.325|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2025.6|34.0.0.330|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2025.11|34.0.0.342|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2026.1β|34.0.0.370|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2026.1β|34.0.0.372|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2026.1β|34.0.0.370|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Not released|Not released|Not released|:heavy_multiplication_x:|Not released|Not released|
+|2026.1|34.0.0.372|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Not released|Not released|Not released|:heavy_check_mark:|Not released|Not released|
 
 ### Available Archives (Windows Offline Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|
@@ -162,6 +162,7 @@ The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windo
 |2024.7|34.0.0.317|:heavy_check_mark:|:heavy_check_mark:|
 |2024.9|34.0.0.321|:heavy_check_mark:|:heavy_check_mark:|
 |2025.11|34.0.0.342|:heavy_check_mark:|:heavy_check_mark:|
+|2026.1|34.0.0.372|:heavy_check_mark:|:heavy_check_mark:|
 
 ### Available Archives (Linux)
 |Date|Version|PPAPI (tar.gz)|PPAPI (rpm)|NPAPI (tar.gz)|NPAPI (rpm)|

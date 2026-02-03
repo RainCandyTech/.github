@@ -19,13 +19,9 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 "Corel", Corel Logo, Corel Balloon Logo, "CorelDRAW", CorelDRAW Balloon Logo, "Corel PHOTO-PAINT", "FastFlick", "MindManager", "Ulead", "VideoStudio" and "WinZip" are trademarks or registered trademarks of Corel Corporation and/or its subsidiaries in Canada, the United States and/or other countries. Copyright (C) Corel Corporation. All rights reserved. [Please click here and check Corel's Legal information page for more information](https://www.corel.com/en/legal-information/).
 
-"Doki Doki Literature Club" & "Doki Doki Literature Club Plus": Copyright (C) Team Salvato. All rights reserved. [Please click here and check the Team Salvato IP Guidelines page for more information](http://teamsalvato.com/ip-guidelines).
-
 "MathFlow", "MathType" and "The best thing for writing equations since chalk!" are registered trademarks of Design Science, Inc. Copyright (C) WIRIS America (Design Science, Inc.) All rights reserved. 
 
 "Microsoft", "Microsoft 365", "Office 365", "Visual Basic", "Visual C++", "Visual Studio", the Visual Studio logo, "Windows", "Windows 10 Team", the Windows logo, "Windows Server", "Windows Vista", and "Windows XP" are trademarks and/or registered trademarks of Microsoft Corporation in the United States and/or other countries. Copyright (C) Microsoft Corporation. All rights reserved. [Please click here and check Microsoft's Trademark and Brand Guidelines page for more information](https://go.microsoft.com/fwlink/?linkid=2196228).
-
-"NEEDY GIRL OVERDOSE"/"NEEDY STREAMER OVERLOAD": Copyright (C) Why so serious, Inc. / WSS playground. All rights reserved.
 
 "NVIDIA", the NVIDIA logo, "CUDA", "Game Ready", "GeForce", "GeForce Experience", "GeForce GTX", "GeForce RTX", "G-SYNC", "NVIDIA 3D Vision", "NVIDIA G-SYNC", "NVIDIA Quadro", "NVIDIA RTX" and "PhysX" are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Copyright (C) NVIDIA Corporation. All rights reserved.
 
@@ -35,4 +31,4 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 All other trademarks are the property of their respective owners.
 
-*Revision date: December 13, 2023*
+*Revision date: January 3, 2026*

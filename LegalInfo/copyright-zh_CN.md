@@ -11,19 +11,13 @@
 
 所有软件作品的版权均归属原版权方所有。如果您是我们软件作品的原始版权方或代理商，并且希望我们删除与您的有关的侵权信息，请转到[侵权信息处理办法](https://github.com/RainCandyTech/LegalInfo/blob/main/copyright_takedown-zh_CN.md)页面获取更多信息。
 
-“Alludo” 文字和 Alludo 徽标是 Cascade Parent Limited 的注册商标。版权所有 (C) 以 Alludo 为商业名称的 Cascade Parent Limited。保留所有权利。[点击这里查看 Alludo 法律信息页面（繁体中文）。](https://www.alludo.com/tw/legal/)
-
 “App Store”、“Apple”、Apple 徽标、“Apple TV”、“Apple Watch”、“Bonjour”、“Bonjour”、 “iCloud”、“iMac”、“iMac Pro”、“iPad”、“iPad Air”、“iPad mini”、“iPadOS”、“iPad Pro”、“iPhone”、“iPod”、“iTunes”、“Mac”、Mac 徽标、“MacBook”、“MacBook Air”、“MacBook Pro”、“Macintosh”、“Mac mini”、“Mac Pro”、“Mac Studio”、“macOS”、“Metal”、Metal 徽标、“OS X”、“PowerBook”、“Power Mac”、“QuickTime”、QuickTime 徽标、“Siri”、“Think different”、“tvOS”、“visionOS”、“watchOS”和“Xserve”是 Apple Inc. 在美国和其他地区注册的商标或注册商标。版权所有 （C） Apple Inc. 保留所有权利。[点击这里查看 Apple 法律信息页面。](https://www.apple.com.cn/legal/)
 
 “Corel”、Corel 徽标、Corel 气球徽标、“CorelDRAW”、CorelDRAW 气球徽标、“Corel PHOTO-PAINT”、“FastFlick”、“MindManager”、“Ulead”、“VideoStudio”、“WinZip”、“影音快手”和“会声会影”是 Corel Corporation 和/或其子公司在加拿大、美国和其他地区的商标或注册商标。版权所有 (C) Corel Corporation。保留所有权利。[点击这里查看 Corel Corporation 的法律信息页面（英文）。](https://www.corel.com/en/legal-information/)
 
-“Doki Doki Literature Club”和“Doki Doki Literature Club Plus”：版权所有 (C) Team Salvato。保留所有权利。[点击这里查看 Team Salvato IP 准则（英文）。](http://teamsalvato.com/ip-guidelines)
-
 “MathFlow”、“MathType”和 “The best thing for writing equations since chalk!” 是 Design Science, Inc. 的注册商标。版权所有 (C) WIRIS America (Design Science, Inc.) 保留所有权利。
 
-“Microsoft”、Microsoft 徽标、“Microsoft 365”、“Office 365”、“Visual Basic”、“Visual C++”、“Visual Studio”、Visual Studio 徽标、“Windows”、“Windows 10 Team”、Windows 徽标、“Windows Server”、“Windows Vista”和“Windows XP”是 Microsoft Corporation 在美国和其他地区的商标或注册商标。版权所有 (C) Microsoft Corporation。保留所有权利。[点击这里查看 Microsoft Trademark and Brand Guidelines（英文）。](https://go.microsoft.com/fwlink/?linkid=2196228)
-
-“NEEDY GIRL OVERDOSE”/“NEEDY STREAMER OVERLOAD”/“主播女孩重度依赖”： 版权所有 (C) 株式会社 Why so serious / WSS playground。保留所有权利。
+“Microsoft”、Microsoft 徽标、“Microsoft 365”、“Office 365”、“Visual Basic”、“Visual C++”、“Visual Studio”、Visual Studio 徽标、“Windows”、“Windows 10 Team”、Windows 徽标、“Windows Server”、“Windows Vista”和“Windows XP”是 Microsoft Corporation 在美国和其他地区的商标或注册商标。版权所有 (C) Microsoft Corporation。保留所有权利。[点击这里查看 Microsoft 商标与品牌指南（英文）。](https://go.microsoft.com/fwlink/?linkid=2196228)
 
 “NVIDIA”、NVIDIA 徽标、“CUDA”、“Game Ready”、“GeForce”、“GeForce Experience”、“GeForce GTX”、“GeForce RTX”、“G-SYNC”、“NVIDIA 3D Vision”、“NVIDIA G-SYNC”、“NVIDIA Quadro”、“NVIDIA RTX”和“PhysX”是 NVIDIA Corporation 在美国和其他地区的商标或注册商标。版权所有 (C) NVIDIA Corporation。保留所有权利。
 
@@ -33,4 +27,4 @@
 
 所有其他商标均为其各自所有者的财产。
 
-*修订时间：2024/03/13*
+*修订时间：2026/02/03*

@@ -1,14 +1,8 @@
 ![Logo by HouYu](./logo.jpg)
 
 # Introduction - 自我介绍
-<i>Because we created memories in our hearts<br>
-因为我们创造了心中的回忆<br>
-Because we recorded the stories of the past<br>
-因为我们记录了曾经的故事<br>
-Because we want to accompany you moving forward<br>
-因为我们期待与你一同前行<br>
-Because we want to see your dreams come true<br>
-因为我们想看到你梦想成真<br></i>
+<i>Because I want to see your dreams come true<br>
+因为我想看到你梦想成真<br></i>
 
 RainCandy Technology is an individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.</br>
 雨糖科技于 2013 年创建，是一个由个人运营的数码科技工作室。我们始终相信「热爱」的魔法，可以带来改变世界的力量。
@@ -20,6 +14,7 @@ RainCandy Technology is an individual studio founded in 2013, focus on computer 
 - Hacking and localization of computer software, especially the following ones - 计算机软件的研究与汉化，特别是以下软件
   - Corel VideoStudio (会声会影)
   - MathType By WIRIS
+  - Kingsoft WPS Office
 
 # Follow us... | 关注我们...
 微信订阅号: [雨糖科技](https://github.com/RainCandyTech/.github/blob/main/wechat_qrcode/wechat_qrcode.png)</br>

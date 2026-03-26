@@ -3,8 +3,6 @@
 # Introduction
 [中文介绍请访问雨糖科技官网！](http://raincandy.tech/about/)
 
-<i>Because I want to see your dreams come true</i>
-
 RainCandy Technology is an individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.
 
 # Our research areas

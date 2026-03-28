@@ -22,7 +22,7 @@ When you log in, we also set a number of cookies to save your login information 
 If you edit or publish an article, we will save an additional cookie in your browser. This cookie does not contain personal data, but only records of article ID you have just edited. This cookie will be retained for one day.
 
 ## Who we share your information with
-When you use the comment function on this site, the information you filled in (such as name, user name, email address and comment content) as well as your IP address, User Agent information and the URL of your comment article or page, may be shared with Akismet (spam comment filtering), Gravatar (public avatar service) and Weavatar (public avatar service) for functions mentioned above.
+When you use the comment function on this site, the information you filled in (such as name, user name, email address and comment content) as well as your IP address, User Agent information and the URL of your comment article or page, may be shared with Akismet (spam comment filtering), Gravatar (public avatar service) and WeAvatar (public avatar service) for functions mentioned above.
 
 ##  How long we keep your information
 If you leave a comment, the comment and its metadata will be saved on this server indefinitely. We do this so that any follow-up comments are identified and automatically approved without being queued for review.
@@ -35,7 +35,7 @@ The retention of cookie information will follow the policy described above.
 If you have an account of our website, or you have left comments on our website, you can request an export file of the personal data we retained about you, which also includes all the data you provide to us. You can also ask us to erase all personal data about you. This does not include data that we must retain for administrative, regulatory or security purposes.
 
 ## Where your data will be sent
-In order to allow multiple functions of the website working normally, your information may be processed by Akismet (spam comment filtering), Gravatar (public avatar service) and Cravatar (public avatar service) with their privacy policy.<br>
+In order to allow multiple functions of the website working normally, your information may be processed by Akismet (spam comment filtering), Gravatar (public avatar service) and WeAvatar (public avatar service) with their privacy policy.<br>
 Depends on the location of servers for these services, your data may be send to different regions. Please contact the provider of these services for more information.
 
 ## About other websites

@@ -16,6 +16,5 @@ RainCandy Technology is an individual studio founded in 2013, focus on computer 
 # Follow us...
 WeChat: [雨糖科技](https://github.com/RainCandyTech/.github/blob/main/wechat_qrcode/wechat_qrcode.png)</br>
 Baidu Tieba: [雨糖科技RCTech](https://tieba.baidu.com/home/main?id=tb.1.be06e796.GJjL12LJ_4OX9VRZDkJfFw)</br>
-Doki Chinese Club：[雨糖科技](https://forum.monika.love/u/6401)</br>
-niconico: [RainCandyTech](https://nicovideo.jp/user/60499470)</br>
+Bilibili：[雨糖科技](https://space.bilibili.com/6810242)</br>
 wvbCommunity: [雨糖科技](https://community.wvbtech.com/u/RainCandy)</br>
